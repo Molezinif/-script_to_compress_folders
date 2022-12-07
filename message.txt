@@ -1,0 +1,6 @@
+Querido ${PERSON_NAME}, 
+
+Isto é uma mensagem de teste.
+Tenha um bom fim-de-semana.
+
+Cumprimentos.
